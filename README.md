@@ -49,7 +49,7 @@ _____
 
 <br> 
 
-bsd, undertale, deltatale, mp100,tadc, forsaken, Vocaloid and utau, webcore, wierdcore and warcore
+bsd, undertale, deltatale, mp100,tadc, forsaken, Vocaloid and utau, webcore, wierdcore and warcore, lain, hetalia, sega, omori
 
 <br> 
 
