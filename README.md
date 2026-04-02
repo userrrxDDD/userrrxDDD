@@ -7,6 +7,6 @@ my kin:
 
 <br> 
 
-![Image](https://github.com/user-attachments/assets/1463927d-a84e-4162-aa9f-f31d648896f2) 
+<img width="2048" height="2048" alt="Image" src="https://github.com/user-attachments/assets/69a413a4-f586-4bb8-92c9-fae5d672a895" />
 
-that's right! mimi is mimi, I am me! 
+⬛ that's right! mimi is mimi, I am me! 
