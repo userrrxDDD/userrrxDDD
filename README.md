@@ -11,11 +11,3 @@ my kin:
 
 ⬛ that's right! mimi is mimi, I am me!
 
----------
-
-
-<img width="1080" height="1288" alt="Image" src="https://github.com/user-attachments/assets/64285334-056d-4a18-9564-7f8472852fcd" />
-
-<br> 
-
-a drawing by me! DO NOT COPY MY DRAWINGS OR OC
