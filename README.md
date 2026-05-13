@@ -1,13 +1,7 @@
-## ⚠️
+## ⬛
 
 <br> 
 
-![Image](https://github.com/user-attachments/assets/43e6b83c-dc89-47f8-9f50-5dfd96e9909d) 
-my kin: 
+<img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/29037400-6764-4842-b316-82ecffdad775" />
 
-<br> 
-
-<img width="2048" height="2048" alt="Image" src="https://github.com/user-attachments/assets/69a413a4-f586-4bb8-92c9-fae5d672a895" />
-
-⬛ that's right! mimi is mimi, I am me!
-
+And you don't seem to understand. 
