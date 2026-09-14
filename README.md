@@ -1,11 +1,6 @@
-## 🍀
-
+## ꕤ
+<img width="498" height="281" alt="Image" src="https://github.com/user-attachments/assets/6e8378e5-8c65-4dd8-8b1a-a0a875110cbf" />
 <br> 
-
-<img width="736" height="519" alt="Image" src="https://github.com/user-attachments/assets/269ca988-aaa0-4906-a359-cdb4264f9d7a" />
-
-<br> 
-
-$${\color{#A3C958} ₑᵥₑᵣᵧ ₒₜₕₑᵣ 𝓭ₐᵧ ᵢ'ₘ 𝔀ₒₙ𝓭ₑᵣᵢₙ𝑔...𝔀ₕₐₜ'ₛ}$$
-$${\color{#A3C958}ₕᵤₘₐₙ ♭ₑᵢₙ𝑔  𝑔ₒₜₜₐ ♭ₑ ₗᵢₖₑ? }$$
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3500&pause=800&color=00AAFF&center=true&vCenter=true&width=700&lines=Another+wander+in+the+night;Let+me+paint+the+view;Color+a+town+with+my+light;For+every+moment+shared+with+you;Not+out+in+the+day;But+never+fully+gone;Going+to+be+back+again;Until+the+coming+of+a+dawn">
+</p>
